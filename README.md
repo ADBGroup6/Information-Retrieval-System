@@ -14,14 +14,16 @@ pip install beautifulsoup4
 pip install -U scikit-learn     
 
 **Command:**    
-Run the following commond:    
-[directory]   [API Key] [Engine Key] [Query] [Precision]      
+Please run the program with following commond:    
+[Directory]   [API Key] [Engine Key] [Query] [Precision]      
 e.g. main.py AIzaSyAPbX4JVlc8waFre4Zve1v8zx1VSfhijIk 008083549322187859573:yubw3z65huy 0.9 per se
 ### d) Internal Design
 
 ### e) Detailed Description of Query-modification Method
 ### f) Relevant Key
-**Google Custom Search Engine API Key:** AIzaSyAPbX4JVlc8waFre4Zve1v8zx1VSfhijIk      
-**Engine ID:**  008083549322187859573:yubw3z65huy
+**Google Custom Search Engine API Key:**      
+AIzaSyAPbX4JVlc8waFre4Zve1v8zx1VSfhijIk      
+**Engine ID:**        
+008083549322187859573:yubw3z65huy
 ### g) Reference
 
