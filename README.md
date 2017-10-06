@@ -17,7 +17,7 @@ pip install -U scikit-learn
 **Command:**    
 Please run the program with following commond:    
 [Directory]   [API Key] [Engine Key] [Query] [Precision]      
-e.g. main.py AIzaSyAPbX4JVlc8waFre4Zve1v8zx1VSfhijIk 008083549322187859573:yubw3z65huy 0.9 per se
+e.g. python main.py AIzaSyAPbX4JVlc8waFre4Zve1v8zx1VSfhijIk 008083549322187859573:yubw3z65huy 0.9 per se
 ### d) Internal Design        
 1. Input a list of words as user query and a target value as objective precision rate. The program will present all these inputs, including relevant key info as well.        
 2. The program calls Google Custom Search API to retrieve top-10 results with current query words, present each result and recieve relevance judgement from user.        
